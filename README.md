@@ -2,7 +2,6 @@ Hi there 👋, I’m @NatOwlley
 ##
 - 😄 Pronouns: She/her
 - 🌱 I’m currently deep diving into Docker and Kubernetes
-- 👾 I'm interested in learning Terraform
 - 💻 I'm  currently looking for a job as DevOps Engineer
 - 😋 Hobbies: Games, books, running, camping
 -  ![image](https://github.com/user-attachments/assets/0458d0d2-0774-4823-b664-39da9c7a977d) btw I use Arch
