@@ -12,7 +12,7 @@ Hi there 👋, I’m @NatOwlley
 
 ## 
 🛠 Tools:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,python," />
   </a>
