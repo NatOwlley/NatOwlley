@@ -5,7 +5,7 @@ Hi there 👋, I’m @NatOwlley
 - 💻 I'm  currently looking for a job as DevOps Engineer
 - 😋 Hobbies: Games, books, running, camping
 - ![image](https://github.com/user-attachments/assets/0458d0d2-0774-4823-b664-39da9c7a977d) btw I use Arch
-- ![image](https://github.com/user-attachments/assets/36cfd1fb-0899-4e96-9c22-193ae224a8e0)
+- 
 
 
 
